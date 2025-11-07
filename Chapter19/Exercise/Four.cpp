@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    const char fileName[] = "D:\\C++\\Chapter20Text\\numbers.bin";
+    const char fileName[] = "D:\\C++\\Chapter19Text\\numbers.bin";
     ofstream outFile(fileName, ios::binary);
 
     if (!outFile) {

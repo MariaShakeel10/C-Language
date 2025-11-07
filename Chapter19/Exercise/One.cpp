@@ -4,9 +4,9 @@
 using namespace std;
 
 int main() {
-    const char file1Name[] = "D:\\C++\\Chapter20Text\\file1.txt";   // first file
-    const char file2Name[] = "D:\\C++\\Chapter20Text\\file2.txt";   // second file
-    const char outputFileName[] = "D:\\C++\\Chapter20Text\\combined.txt"; // result file
+    const char file1Name[] = "D:\\C++\\Chapter19Text\\file1.txt";   // first file
+    const char file2Name[] = "D:\\C++\\Chapter19Text\\file2.txt";   // second file
+    const char outputFileName[] = "D:\\C++\\Chapter19Text\\combined.txt"; // result file
 
     ifstream file1(file1Name);
     ifstream file2(file2Name);

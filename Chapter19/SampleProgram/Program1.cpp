@@ -14,7 +14,7 @@ ofstream scrn, prnt;
 int main() 
 { 
  char inChar; 
- inFile.open("D:\\C++\\Chapter20Text\\My-File.txt", ios::in);   // Open the file for input 
+ inFile.open("D:\\C++\\Chapter19Text\\My-File.txt", ios::in);   // Open the file for input 
  if(!inFile)   
  {        
   cout << "Error opening file"<< endl;   

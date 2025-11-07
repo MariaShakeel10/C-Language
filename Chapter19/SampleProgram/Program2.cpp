@@ -10,7 +10,7 @@ int main()
 { 
 char rChar; 
 /* Opened the file in both input and output modes */ 
-rFile.open("D:\\C++\\Chapter20Text\\my-File.txt", ios::in | ios::out);  
+rFile.open("D:\\C++\\Chapter19Text\\my-File.txt", ios::in | ios::out);  
 if(!rFile) 
 { 
 cout << "error opening file"<< endl; 

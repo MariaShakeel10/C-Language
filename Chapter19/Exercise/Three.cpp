@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    const char inputFileName[] = "D:\\C++\\Chapter20Text\\original.txt";
-    const char outputFileName[] =   "D:\\C++\\Chapter20Text\\reversed.txt";
+    const char inputFileName[] = "D:\\C++\\Chapter19Text\\original.txt";
+    const char outputFileName[] =   "D:\\C++\\Chapter19Text\\reversed.txt";
 
     ifstream inFile(inputFileName, ios::binary);
     ofstream outFile(outputFileName, ios::binary);

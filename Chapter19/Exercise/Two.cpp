@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    const char fileName[] = "D:\\C++\\Chapter20Text\\test.txt";
+    const char fileName[] = "D:\\C++\\Chapter19Text\\test.txt";
     fstream file(fileName, ios::in | ios::out | ios::binary);
 
     if (!file) {
