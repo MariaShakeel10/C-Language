@@ -1,0 +1,5 @@
+Name	Salary
+Aamir	14000
+Amara	17000
+Adnan	15000
+Afzal	13500
