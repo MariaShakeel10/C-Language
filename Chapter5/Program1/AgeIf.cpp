@@ -24,3 +24,10 @@ main (){
     }
     return 0;
 }
+
+//*************************RESULT********************** 
+/*Enter John's age: 
+23
+Enter Mary's age:24
+
+ Mary is older than John  */

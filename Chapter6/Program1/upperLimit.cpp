@@ -18,3 +18,7 @@ int main() {
     
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Please enter the upper limit for which you want the sum: 23
+The sum of first 23 integers is 276 */

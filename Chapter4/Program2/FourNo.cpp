@@ -25,3 +25,15 @@ int main (){
 
     return 0;
 }
+
+// ****************************RESULTS****************************
+/*  Enter a four digit number: 7531
+
+ The last digit of the number is: 1
+
+ The 2nd last digit of the number is: 3
+
+ The 2nd digit of the number is: 5
+
+ The 1st digit of the number is: 7
+**************End of Program********** */

@@ -18,3 +18,7 @@ int main() {
     cout << "The sum of even numbers up to " << upperLimit << "starting from 1 is: " << sum << endl;
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Enter the upper limit: 23
+The sum of even numbers up to 23starting from 1 is: 132 */

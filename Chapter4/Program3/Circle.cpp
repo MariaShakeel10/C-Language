@@ -19,3 +19,9 @@ int main (){
 
     return 0;
 }
+
+//**********************************RESULT******************** 
+/*  Enter the radius of the circle:14
+Diameter of the circle: 28        
+Circumference of the circle: 87.92
+Area of the circle: 615.44 */

@@ -36,3 +36,27 @@ int main (){
     cout << "**************End of Program**********" << endl;
 
 }
+
+// ****************************RESULTS****************************
+/* Enter the Age of person no. 1:8
+
+ Enter the Age of person no. 2:5
+
+ Enter the Age of person no. 3:5
+
+ Enter the Age of person no. 4:5
+
+ Enter the Age of person no. 5:9
+
+ Enter the Age of person no. 6:8
+
+ Enter the Age of person no. 7:7
+
+ Enter the Age of person no. 8:7
+
+ Enter the Age of person no. 9:3
+
+ Enter the Age of person no. 10:7
+
+ The Average Age of 10 persons is: 6
+**************End of Program***********/ 

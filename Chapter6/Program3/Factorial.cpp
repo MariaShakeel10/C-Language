@@ -15,3 +15,7 @@ int main() {
     cout << "The factorial is: " << factorial << endl;
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Enter a positive integer to calculate its factorial: 3
+The factorial is: 6 */
