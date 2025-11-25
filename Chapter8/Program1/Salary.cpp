@@ -32,3 +32,7 @@ switch (salary/10000){
     return 0;
 
 }
+
+//*************************RESULT********************** 
+/* Enter your salary: 29000
+Net Payable (salary - deduction)  =  29000 - 2030 = 26970 */

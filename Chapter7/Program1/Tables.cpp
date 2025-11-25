@@ -17,3 +17,13 @@ for (int i=0; i<= Multiplier; i++){
 return 0;
 
 }
+
+//*******************RESULT****************** 
+/* Enter the no. to be multiplied:4
+Enter the no. of times to be multiplied:5
+4 x 0 = 0 
+4 x 1 = 4 
+4 x 2 = 8 
+4 x 3 = 12
+4 x 4 = 16
+4 x 5 = 20 */

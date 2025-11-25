@@ -18,3 +18,8 @@ int main() {
 
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Enter an integer: 4
+Enter a power: 5
+4 raised to the power of 5 is: 1024 */

@@ -37,3 +37,13 @@ else if (power < 0){
     return (result);
     
 }
+
+//*************************RESULT********************** 
+/* Enter a number: 3
+Enter a power: 3
+3 raised to the power of 3 is: 27 
+
+Enter a number: -3
+Enter a power: 3
+-3 raised to the power of 3 is: -27
+*/

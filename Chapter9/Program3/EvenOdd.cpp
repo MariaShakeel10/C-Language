@@ -21,3 +21,11 @@ int Even_Odd (int number){
  }
  return 0;
 }
+
+//*************************RESULT********************** 
+/* Enter an integer: 5
+5 is Odd
+
+Enter an integer: 6
+6 is Even
+*/

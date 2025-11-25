@@ -33,3 +33,7 @@ double CircleArea (double radius){
     return ( 3.1415926 * radius * radius ) ;
 }
 
+//*************************RESULT********************** 
+/* Enter radius of outer circle: 10
+Enter radius of Inner circle: 5
+Area of the ring is: 235.619 */
