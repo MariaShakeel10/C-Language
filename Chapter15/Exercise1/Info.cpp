@@ -13,3 +13,9 @@ int main() {
 
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Value of ch: A
+Address of ch: 0x5ffe97
+Pointer ptr holds address: 0x5ffe97
+Value pointed to by ptr: A */

@@ -41,3 +41,17 @@ int main (){
           cout << endl;
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Enter element for position [0][0]: 1
+Enter element for position [0][1]: 0
+Enter element for position [0][2]: 0
+Enter element for position [1][0]: 0
+Enter element for position [1][1]: 1
+Enter element for position [1][2]: 0
+Enter element for position [2][0]: 0
+Enter element for position [2][1]: 0
+Enter element for position [2][2]: 1
+
+The matrix is an Identity Matrix.
+ */

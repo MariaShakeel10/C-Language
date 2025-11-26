@@ -27,3 +27,7 @@ void copyArray(int *src, int *dest, int size) {
         *(dest + i) = *(src + i); // or dest[i] = src[i];
     }
 }
+
+//*************************RESULT********************** 
+/* Original array (a): 10 20 30 40 50 
+PS D:\C++> y (b): 10 20 30 40 50  */

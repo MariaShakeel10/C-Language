@@ -18,3 +18,12 @@ cout << " You have entered " << i-1 << " elements in array." << endl;
 return 0;
 
 }
+
+//*************************RESULT********************** 
+/* Enter number of elements in array:(-1 to exit) 12
+32
+23
+43
+21
+-1
+ You have entered 5 elements in array. */

@@ -28,3 +28,14 @@ int main (){
     return 0;
 
 }
+
+//*************************RESULT********************** 
+/* Enter element for position [0][0]: 1 
+Enter element for position [0][1]: 2
+Enter element for position [0][2]: 3
+Enter element for position [1][0]: 4
+Enter element for position [1][1]: 5
+Enter element for position [1][2]: 6
+The matrix is: 
+        1       2       3
+        4       5       6 */

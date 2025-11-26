@@ -25,3 +25,8 @@ void convertToLowerCase(char *a) {
         }  ++a;
           }
 }
+
+//*************************RESULT********************** 
+/* Enter a text: TYTUjhbjkbjk bsvhjdv
+Original String: TYTUjhbjkbjk bsvhjdv 
+Lowercase String: tytujhbjkbjk bsvhjdv */

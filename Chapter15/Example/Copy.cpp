@@ -20,3 +20,7 @@ int main (){
     cout << "String a: " << stra << endl;
     cout << "String b: " << strb << endl;
 }
+
+//*************************RESULT********************** 
+/* String a: Hello World! This is C++ Programming.
+String b: Hello World! This is C++ Programming. */

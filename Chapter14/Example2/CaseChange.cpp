@@ -24,3 +24,7 @@ void convertToUpperCase(char *a) {
         }  ++a;
           }
 }
+
+//*************************RESULT********************** 
+/* Original String: Hello World! This is C++ Programming. 
+Uppercase String: HELLO WORLD! THIS IS C++ PROGRAMMING */
