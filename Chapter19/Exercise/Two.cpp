@@ -34,3 +34,10 @@ int main() {
 Moving past the end doesn’t crash but returns nothing when reading.
 
 Moving before the start sets a failbit.*/
+
+//*************************RESULT********************** 
+/* Pointer moved 1000 bytes beyond EOF.
+Reached EOF — cannot read beyond file end. 
+Cannot move before beginning — failbit set. */
+//Content 
+/*kgfegukg*/

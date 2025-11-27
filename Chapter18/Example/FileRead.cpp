@@ -29,3 +29,18 @@ int main()
    } 
    inFile.close(); 
 } 
+
+//*************************RESULT********************** 
+/* Name    Salary  Department
+Aamir   12000   Sales     
+Amara   15000   HR        
+Adnan   13000   IT        
+Afzal   11500   Marketing 
+Afzal   11500   Marketing  */
+
+//********************CONTENT ******************
+/*Name  Salary Department 
+Aamir 12000 Sales 
+Amara 15000 HR 
+Adnan 13000 IT 
+Afzal 11500 Marketing */

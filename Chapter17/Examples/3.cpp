@@ -41,3 +41,15 @@ char *pc;
    else 
       cout << "First 7 characters of s1 and s3 are not identical" << endl ;    
 } 
+
+//*************************RESULT********************** 
+/* s1 = Welcome to        
+s2 = Virtual University
+s3 = Welcome to Karachi
+The length of s1 = 11  
+The length of s2 = 18  
+The length of s3 = 18  
+The nearest city to Karachi is Hyderabad
+Hyderabad and Karachi are in Sind.
+s1 and s2 are not identical
+First 7 characters of s1 and s3 are identical */

@@ -19,3 +19,14 @@ int main( )
    cout << "\n OK, you have entered " << anInteger; 
  } 
 }  
+
+
+//*************************RESULT********************** 
+/* Enter an integer between 10-100 : 96
+
+ OK, you have entered 96 
+ 
+ 
+ Enter an integer between 10-100 : ft
+
+Error : Not a valid input*/

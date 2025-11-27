@@ -51,3 +51,20 @@ int main() {
 
     return 0;
 }
+
+
+//*************************RESULT********************** 
+/* Enter a line of text: Hi how are you
+
+Enter a character to search: h
+First occurrence of 'h' is at position: 3
+Last occurrence of 'h' is at position: 3 
+
+Enter a word to search inside text: are
+The word "are" found at position: 7
+
+Words in your text:
+Hi
+how
+are
+you */

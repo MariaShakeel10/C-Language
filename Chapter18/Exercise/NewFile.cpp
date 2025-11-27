@@ -22,3 +22,8 @@ int main()
     outFile << ouputText; 
     outFile.close(); 
 } 
+
+//*************************RESULT********************** 
+/* Welcome to VU */
+//Content 
+/**/

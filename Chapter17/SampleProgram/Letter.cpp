@@ -37,3 +37,13 @@ cout<< "white space =  "<< ws << endl;
 cout<< "punctuation =  "<< pun<< endl; 
 cout<< "others =  "<< oth; 
 } 
+
+//*************************RESULT********************** 
+/* Hobfjk vgvYUH
+You typed:
+lower case letters =  8
+upper case letters =  4
+digits =  0
+white space =  1       
+punctuation =  0
+others =  0 */

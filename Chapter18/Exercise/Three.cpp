@@ -25,3 +25,13 @@ int main() {
     inFile.close(); // close file
     return 0;
 }
+
+
+//*************************RESULT********************** 
+/* This is a test program 
+In this program we learn how to use getLine() function 
+This function is faster than using the get() function  */
+//Content 
+/*This is a test program 
+In this program we learn how to use getLine() function 
+This function is faster than using the get() function */

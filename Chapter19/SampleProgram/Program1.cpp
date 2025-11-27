@@ -37,3 +37,8 @@ while(inFile.get(inChar))     // Read the whole file one character at a time
 prnt.close();                        // Close the output stream  
 inFile.close();                     // Close the input stream 
 } 
+
+//*************************RESULT********************** 
+/* ABCDEFGHIJKLMNOPQRSTUVWXYZ */
+//Content 
+/*ABCDEFGHIJKLMNOPQRSTUVWXYZ*/

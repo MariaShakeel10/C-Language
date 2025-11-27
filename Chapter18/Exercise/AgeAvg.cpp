@@ -63,3 +63,19 @@ int main() {
     cout << "Processing complete! Check " << outputFileName << endl;
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Name	Salary	Age
+Aamir	14000	25
+Amara	17000	30
+Adnan	15000	28
+Afzal	13500	22
+
+Average Age = 26.25
+ */
+//Content 
+/*Aamir 12000 25
+Amara 15000 30
+Adnan 13000 28
+Afzal 11500 22
+*/

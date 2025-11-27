@@ -52,3 +52,11 @@ int main()
     inFile.close(); 
     outFile.close(); 
 }
+
+//*************************RESULT********************** 
+/* The total salary = 51500 */
+//Content 
+/*Aamir 12000 
+Amara 15000 
+Adnan 13000 
+Afzal 11500 */

@@ -36,3 +36,15 @@ int main() {
 }
 
 // combining files 
+//*************************RESULT********************** 
+/* This is File 1
+Hello from first file
+This is File 2
+End of second file
+ */
+//Content 
+/*This is File 1
+Hello from first file
+This is File 2
+End of second file
+*/

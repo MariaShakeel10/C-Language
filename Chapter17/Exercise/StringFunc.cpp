@@ -52,3 +52,17 @@ int main() {
 
     return 0;
 }
+
+
+//*************************RESULT********************** 
+/* Enter first string: Virtual Uni
+Enter second string: HI
+
+After strcpy (copy str1 → str3): Virtual Uni    
+After strncpy (first 3 chars of str2 → str3): HI
+After strcat (str1 + str2): Virtual UniHI       
+After strncat (first 4 chars of str2): Virtual UniHI
+String 1 is greater than String 2.
+First 3 characters are NOT equal.
+Length of first string: 11
+Length of second string: 2 */

@@ -34,3 +34,15 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
+//*************************RESULT********************** 
+/* A
+B
+C
+D
+E
+program.exe -3
+ C
+D
+E
+ */

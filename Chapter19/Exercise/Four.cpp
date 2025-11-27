@@ -21,3 +21,6 @@ int main() {
     return 0;
 }
 //create a binary file and write 100 integers to it
+
+//*************************RESULT********************** 
+/* binary digits  */

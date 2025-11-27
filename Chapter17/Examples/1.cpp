@@ -24,3 +24,12 @@ cout<<"String 2:\t"<<string2<<endl;
  strncpy(string3, string1, 3); 
  cout << "strncpy (string3, string1, 3)  =   " << string3 ; 
 } 
+
+//*************************RESULT********************** 
+/* Before the copy :
+String 1:       String1
+String 2:       String2
+After the copy :       
+String 1:       String1
+String 2:       String1
+strncpy (string3, string1, 3)  =   Str */

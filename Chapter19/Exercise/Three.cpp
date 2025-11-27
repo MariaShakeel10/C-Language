@@ -33,3 +33,8 @@ int main() {
 }
 
 //reverse the text contents of a file by reading it from end to beginning and writing to a new file
+
+//*************************RESULT********************** 
+/* uoy era woh olleH */
+//Content 
+/*Hello how are you*/

@@ -30,3 +30,8 @@ cout << "the 16th character from the end is  " << rChar ;
  
 rFile.close();                       // Close the file 
 } 
+
+//*************************RESULT********************** 
+/* the 8th character is  Ithe 16th character from the end is  K */
+//Content 
+/*ABCDEFGHIJKLMNOPQRSTUVWXYZ*/

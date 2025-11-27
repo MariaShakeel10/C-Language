@@ -32,3 +32,16 @@ int main() {
 
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Name	Salary
+Aamir	14000
+Amara	17000
+Adnan	15000
+Afzal	13500
+ */
+//Content 
+/*Aamir 12000 
+Amara 15000 
+Adnan 13000 
+Afzal 11500 */

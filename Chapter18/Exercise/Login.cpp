@@ -58,3 +58,16 @@ int main() {
     cout << "Processing complete! Check " << outputFileName << endl;
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Syed NAli Syed
+Muhammad AButt Muha
+Faisal AMalik Fais
+Muhammad AJamil Muha
+ */
+//Content 
+/*Syed N Ali
+Muhammad A Butt
+Faisal A Malik
+Muhammad A Jamil
+*/
