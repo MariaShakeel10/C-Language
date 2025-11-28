@@ -27,3 +27,8 @@ int main ()
     } 
      cout << "The decrypted password is:  " << password << endl; 
 } 
+
+//*************************RESULT********************** 
+/* Please enter a password(less than 10 character): ty1030
+The encrypted password is:  wz2303
+The decrypted password is:  ty1030 */

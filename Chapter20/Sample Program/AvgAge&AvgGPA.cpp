@@ -80,3 +80,95 @@ int main()
      cout << "\n The average Grade of the class is : F" << endl; 
     } 
 }
+
+
+//*************************RESULT********************** 
+/* Enter data for Student # : 1
+Enter the Student's Name : Ma
+Enter the Student's Course : CS201
+Enter the Student's Age : 12
+Enter the Student's GPA : 3
+
+Enter data for Student # : 2
+Enter the Student's Name : Na
+Enter the Student's Course : CS201 
+Enter the Student's Age : 18
+Enter the Student's GPA : 2.7
+
+Enter data for Student # : 3
+Enter the Student's Name : KI
+Enter the Student's Course : CS201
+Enter the Student's GPA : 3.7
+
+Enter data for Student # : 4
+Enter the Student's Name :
+
+PS D:\C++>  & 'c:\Users\Asc\.vscode\extensions\ms-vscode.cpptools-1.28.3-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-knfjc2nl.21n' '--stdout=Microsoft-MIEngine-Out-ccsjifyl.jze' '--stderr=Microsoft-MIEngine-Error-eua5yk2g.2vc' '--pid=Microsoft-MIEngine-Pid-dqrwah1u.s3d' '--dbgExe=C:\msys64\ucrt64\bin\gdb.exe' '--interpreter=mi' 
+oft-MIEngine-Error-eua5yk2g.2vc' '--pid=Microsoft-MIEngine-Pid-dqrwah1u.s3d' '--dbgExe=C:\x5cmsys64\x5cucrt64\x5cbin\x5cgdb.exe' '--interpreter=mi' ;6cd1c69f-4772-4118-81f4-cfcddd786d79
+       Enter data for Student # : 1
+Enter the Student's Name : hh
+Enter the Student's Course : cs201
+Enter the Student's Age : 23
+Enter the Student's GPA : 3.4
+
+Enter data for Student # : 2
+Enter the Student's Name : dgf
+Enter the Student's Course : cs201
+Enter the Student's Age : 19
+Enter the Student's GPA : 4
+
+Enter data for Student # : 3
+Enter the Student's Name : hurf
+Enter the Student's Course : cs201
+Enter the Student's Age : 20
+Enter the Student's GPA : 3.5
+
+Enter data for Student # : 4
+Enter the Student's Name : dfgrt
+Enter the Student's Course : cs201
+Enter the Student's Age : 26
+Enter the Student's GPA : 3.9
+
+Enter data for Student # : 5
+Enter the Student's Name : dfghryhr
+Enter the Student's Course : cs201
+Enter the Student's Age : 10
+Enter the Student's GPA : 3.6
+
+Enter data for Student # : 6
+Enter the Student's Name : jdfh
+Enter the Student's Course : njngrng
+Enter the Student's Age : 30
+Enter the Student's GPA : 3
+
+Enter data for Student # : 7
+Enter the Student's Name : uegier
+Enter the Student's Course : jhbgrejhb
+Enter the Student's Age : 27
+Enter the Student's GPA : 2.4
+
+Enter data for Student # : 8
+Enter the Student's Name : hiwefiuag
+Enter the Student's Course : ghg
+Enter the Student's Age : 16
+Enter the Student's GPA : 1.8
+
+Enter data for Student # : 9
+Enter the Student's Name : hrkhg
+Enter the Student's Course : hkhweo
+Enter the Student's Age : 19
+Enter the Student's GPA : 1.9
+
+Enter data for Student # : 10
+Enter the Student's Name : khgikht
+Enter the Student's Course : jkerhi
+Enter the Student's Age : 18
+Enter the Student's GPA : 4
+
+ The average age is : 20
+
+ The average GPA is : 3.15
+
+ Student with max GPA is : dgf
+
+ The average Grade of the class is : B */

@@ -31,3 +31,10 @@ int main() {
 
     return 0;
 }
+
+//*************************RESULT********************** 
+/* Original number: 29 (00011101)
+After setting bit 2:  00011101
+After clearing bit 3: 00010101
+After toggling bit 0: 00010100
+Bit 4 is ON */

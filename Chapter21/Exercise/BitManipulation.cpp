@@ -24,3 +24,20 @@ int main() {
 
     return 0;
 }
+
+
+//*************************RESULT********************** 
+/* Enter first number: 2
+Enter second number: 3
+
+Number 1 in binary:  00000010
+Number 2 in binary:  00000011
+
+Bitwise AND (&):    00000010
+Bitwise OR  (|):    00000011
+Bitwise XOR (^):    00000001
+Bitwise NOT (~a):   11111101
+Bitwise NOT (~b):   11111100
+
+Left shift a<<1:    00000100
+Right shift b>>1:   00000001 */

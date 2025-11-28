@@ -86,3 +86,30 @@ void writeData(ofstream &outFile, Student s) {
     outFile << s.age << endl;
     outFile << s.GPA << endl;
 }
+
+//*************************RESULT********************** 
+/* nasir 
+CS201 
+23 
+3 
+Jamil 
+CS201 
+31 
+4 
+Faisal 
+CS201 
+25 
+3.5 */
+//Content 
+/*nasir 
+CS201 
+23 
+3 
+Jamil 
+CS201 
+31 
+4 
+Faisal 
+CS201 
+25 
+3.5*/
