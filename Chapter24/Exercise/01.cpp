@@ -28,3 +28,31 @@ int main() {
 
     return 0;
 }
+
+
+//***********************RESULT************************
+/*Testing dynamic memory allocation...
+Successfully allocated 19 KB 
+Successfully allocated 39 KB 
+Successfully allocated 78 KB 
+Successfully allocated 156 KB
+Successfully allocated 312 KB
+Successfully allocated 625 KB
+Successfully allocated 1250 KB
+Successfully allocated 2500 KB
+Successfully allocated 5000 KB
+Successfully allocated 10000 KB
+Successfully allocated 20000 KB
+Successfully allocated 40000 KB
+Successfully allocated 80000 KB
+Successfully allocated 160000 KB
+Successfully allocated 320000 KB
+Successfully allocated 640000 KB
+Successfully allocated 1280000 KB
+Successfully allocated 2560000 KB
+Successfully allocated 5120000 KB
+Successfully allocated 10240000 KB
+Successfully allocated 20480000 KB
+
+❌ Failed to allocate 20480000 KB
+Maximum allocatable heap memory ≈ 10240000 KB*/

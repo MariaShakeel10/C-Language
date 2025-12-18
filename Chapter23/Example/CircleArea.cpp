@@ -12,3 +12,7 @@ main()
  cin >> radius; 
  cout << "Area of circle is " << CIRCLEAREA (radius); 
 }
+
+//***********************RESULT************************
+/*Enter radius of the circle: 12
+Area of circle is 452.389*/

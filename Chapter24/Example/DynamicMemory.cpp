@@ -36,3 +36,17 @@ int main( )
      free (iptr) ; 
      sptr = NULL ; 
  }
+
+ //***********************RESULT************************
+/*How many students are in the class ?    10
+Enter the age of student  1 = 1
+Enter the age of student  2 = 23
+Enter the age of student  3 = 34
+Enter the age of student  4 = 56
+Enter the age of student  5 = 23
+Enter the age of student  6 = 12
+Enter the age of student  7 = 12
+Enter the age of student  8 = 09
+Enter the age of student  9 = 78
+Enter the age of student  10 = 41
+The average age of the class is 28*/

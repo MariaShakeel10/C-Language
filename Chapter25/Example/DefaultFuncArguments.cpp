@@ -16,3 +16,9 @@ void show( int first, float second, long third )
    cout << ", second = " << second; 
    cout << ", third = "  << third; 
 } 
+
+//***********************RESULT************************
+/*first = 1, second = 2.3, third = 4   
+first = 5, second = 2.3, third = 4   
+first = 6, second = 7.8, third = 4   
+first = 9, second = 10.11, third = 12*/

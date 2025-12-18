@@ -16,3 +16,8 @@ int  main()
        cout << "\nOops"; 
    // Cannot access temp 
 } 
+
+//***********************RESULT************************
+/*This is line number 0 and temp is 22
+This is line number 1 and temp is 22
+This is line number 2 and temp is 22*/

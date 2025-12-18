@@ -29,4 +29,9 @@ int main()
  cout << "Memory for " << num << " employees has allocated successfully" << endl; 
  //now free the allocated memory 
  free(workers) ; 
-} 
+}
+
+//***********************RESULT************************
+/*How many employees do you want
+5
+Memory for 5 employees has allocated successfully*/

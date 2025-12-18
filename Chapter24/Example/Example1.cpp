@@ -25,3 +25,7 @@ int main()
      free(s2);  
      return 0; 
 }
+
+//***********************RESULT************************
+/*s1: This is a sentence
+s2: This is a sentence*/

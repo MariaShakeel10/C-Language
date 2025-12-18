@@ -23,3 +23,6 @@ int main()
     stringCopy( stringb, "This is a string", 4 );  // Copy first 4 characters to stringb array 
     cout << stringb << " and " << stringa;  // Display the contents on the screen 
 }
+
+//***********************RESULT************************
+/*This and That*/
