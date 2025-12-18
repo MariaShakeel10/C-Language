@@ -19,3 +19,8 @@ int main()
     num() = 200;   // mynum set to 200 
     cout << " After assignment the value of myNum = " << myNum << endl; 
 } 
+
+//***********************RESULT************************
+/* The value of i = 0
+ The value of myNum = 0
+ After assignment the value of myNum = 200*/

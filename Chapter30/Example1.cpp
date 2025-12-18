@@ -44,3 +44,10 @@ void reffunc( const bigone &r1 )
    cout << '\n' << r1.serno;       // Reference notation 
    cout << '\n' << r1.text; 
 } 
+
+//***********************RESULT************************
+/*This is a BIG structure
+123
+This is a BIG structure
+123
+This is a BIG structure*/

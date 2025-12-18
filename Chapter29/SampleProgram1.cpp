@@ -37,3 +37,8 @@ int main()
  increment(&x, 10); 
  x.display(); 
 } 
+
+//***********************RESULT************************
+/*
+        The value of the topSecret is 100
+ The value of the topSecret is 110*/
