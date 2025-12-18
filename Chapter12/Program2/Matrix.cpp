@@ -20,7 +20,7 @@ int main (){
     cout << "The matrix is: " << endl;
     for (int i= 0; i< maxRows; i++){
         for (int j = 0; j< maxCols; j++){
-            cout << "\t" << matrix[i][j] ;
+            cout << matrix[i][j]<< "\t"  ;
  
         }         
           cout << endl;

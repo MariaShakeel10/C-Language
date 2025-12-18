@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#define PI 3.14
 
 using namespace std;
 
@@ -10,8 +11,8 @@ int main (){
     cin >> radius;
 
     diameter = 2*radius;
-    circumference = 2 * 3.14 * radius;
-    area = 3.14 * radius * radius;
+    circumference = 2 * PI * radius;
+    area = PI * radius * radius;
 
     cout << "Diameter of the circle: " << diameter << endl;
     cout << "Circumference of the circle: " << circumference << endl;   
