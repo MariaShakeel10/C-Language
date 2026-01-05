@@ -3,7 +3,8 @@
 using namespace std; 
  
 class Date 
-{ 
+{  private: 
+     int   month, day, year;  
      public: 
      Date( )  
      { 
@@ -21,8 +22,7 @@ class Date
        friend  ostream &   operator  << ( ostream &  os, Date  d ); 
        friend  istream &   operator  >> ( istream &  is, Date & d ); 
                
-      private: 
-     int   month, day, year;             
+                
 }; 
  
 ostream &   operator  << ( ostream &  os, Date  d ) 
