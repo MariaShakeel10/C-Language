@@ -1,5 +1,5 @@
 /* This program illustrates the construction and destruction orders of objects. */ 
- 
+ //objects as class members
 #include <iostream> 
 using namespace std; 
 class A 
